@@ -1,3 +1,6 @@
-git add .
+#!/bin/bash
+
+#!bash .gitpush
+git add README.md
 git commit -m 'update readme'
 git push -u origin master
